@@ -1,0 +1,23 @@
+
+body{
+    background-color: #000;
+    font-family: 'Handjet', cursive !important;
+    font-family: 'Space Mono', monospace !important;
+}
+
+.text-w{
+    color: rgba(255, 255, 255, 0.726);
+}
+
+.glow{
+    text-shadow: 0 0 15px #ffffff, 0 0 15px #ffffff
+}
+
+.glow-icon:hover{
+    text-shadow: 0 0 15px #ffffff, 0 0 15px #ffffff
+}
+
+.border-line{
+    border-bottom: 1px dashed rgb(199, 199, 199);
+}
+
